@@ -1,0 +1,9 @@
+Package: com.tomaszpoliszuk.flipswitchfullkeyboardaccess
+Depends: firmware (>= 13.4), mobilesubstrate, com.a3tweaks.flipswitch
+Name: Flipswitch - Full Keyboard Access
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Flipswitch toggle for Full Keyboard Access
+Author: Tomasz Poliszuk
+Section: Addons (Flipswitch)
+dev: tomaszpoliszuk
